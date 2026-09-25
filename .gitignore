@@ -1,0 +1,6 @@
+dataset/
+candidate_index.db
+candidate_index.db-journal
+output/
+__pycache__/
+*.pyc
