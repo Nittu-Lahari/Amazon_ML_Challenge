@@ -4,3 +4,5 @@ candidate_index.db-journal
 output/
 __pycache__/
 *.pyc
+train_candidate_index.db
+train_candidate_index.db-journal
